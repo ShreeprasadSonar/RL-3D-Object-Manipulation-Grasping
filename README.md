@@ -18,13 +18,6 @@ This repository contains code, simulation setup scripts, training procedures, an
 - Performance comparison between DQN and DDPG in grasping accuracy
 - References to related research articles and literature in RL-based robotic manipulation
 
-## Contents
-
-- `code/`: Contains the implementation code for the RL-based grasping system.
-- `simulation_setup/`: Includes scripts and setup instructions for the PyBullet simulation environment.
-- `training_procedures/`: Details the steps and procedures for training the RL agent.
-- `experiments/`: Provides experiment results and analysis, highlighting the performance of DQN and DDPG algorithms.
-
 ## Demo
 
 Check out the demo video showcasing the project in action: [Demo.gif](Demo.gif).
